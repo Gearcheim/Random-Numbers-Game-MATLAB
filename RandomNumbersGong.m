@@ -1,4 +1,4 @@
-%Heather Shirely
+
 
 %Random number game. With sound!
 choice = input('Enter 1 to guess a number, 0 to quit: ');
